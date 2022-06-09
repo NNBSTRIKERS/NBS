@@ -4,7 +4,7 @@ ASTRONOMY || COSMOLOGY || CODING
 
 ### Contact me:
 <p>
-    <a href = "https://twitter.com/nirnaya_betal">
+    <a href = "https://twitter.com/NNBSTRIKERS">
         <img src = "https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width = "30" height = "30">
     </a> &nbsp;
     <a href = "mailto:betal07rick@gmail.com">
